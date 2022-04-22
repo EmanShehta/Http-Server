@@ -1,0 +1,15 @@
+C:\Users\dell\Desktop\Template\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Users\dell\Desktop\Template\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Users\dell\Desktop\Template\HTTPServer\obj\x86\Debug\HTTPServer.exe
+C:\Users\dell\Desktop\Template\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+C:\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csprojAssemblyReference.cache
+C:\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+C:\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.exe
+C:\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+C:\project\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.exe
+C:\project\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\project\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csprojAssemblyReference.cache
+C:\project\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.exe
+C:\project\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.pdb
